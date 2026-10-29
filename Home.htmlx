@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traditional Welcome</title>
+</head>
+<body>
+    <h1>Traditional Welcome !!</h1>
+<<<<<< HEAD
+<<<<<<< HEAD
+    <h2>welcome to Master Branch</h2>
+=======
+    <h2>welcome to Featured Branch updated</h2>
+>>>>>>> betterBranch
+=======
+>>>>>>> parent of 5ccb7a8 (v1-feature commit)
+    
+    <script src="Index.js">
+        // console.log("Hello, World!");
+    </script>
+    
+</body>
+</html>
